@@ -8,8 +8,7 @@ app.get('/', (req, res) => {
 })
 
 app.get('/players', (req, res) => {
-    res.header("Content-Type",'application/json')
-    res.send(JSON.stringify(importData))
+    res.send(importData)
 })
 
 app.listen(port, () => {
