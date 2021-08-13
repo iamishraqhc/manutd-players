@@ -7,6 +7,152 @@
         {
             "name": "Lee Grant",
             "jersey": 13
+        },
+        {
+            "name": "Dean Henderson",
+            "jersey": 26
+        },
+        {
+            "name": "Tom Heaton",
+            "jersey": 22
+        }
+    ],
+    "defenders": [
+        {
+            "name": "Victor Lindelof",
+            "jersey": 2
+        },
+        {
+            "name": "Eric Bailly",
+            "jersey": 3
+        },
+        {
+            "name": "Phil Jones",
+            "jersey": 4
+        },
+        {
+            "name": "Harry Maguire",
+            "jersey": 5
+        },
+        {
+            "name": "Diogo Dalot",
+            "jersey": 20
+        },
+        {
+            "name": "Luke Shaw",
+            "jersey": 23
+        },
+        {
+            "name": "Alex Telles",
+            "jersey": 27
+        },
+        {
+            "name": "Aaron Wan-Bissaka",
+            "jersey": 29
+        },
+        {
+            "name": "Brandon Williams",
+            "jersey": 33
+        },
+        {
+            "name": "Axel Tuanzebe",
+            "jersey": 38
+        },
+        {
+            "name": "Teden Mengi",
+            "jersey": 43
+        }
+    ],
+    "midfielders": [
+        {
+            "name": "Paul Pogba",
+            "jersey": 6
+        },
+        {
+            "name": "Juan Mata",
+            "jersey": 8
+        },
+        {
+            "name": "Jesse Lingard",
+            "jersey": 14
+        },
+        {
+            "name": "Andreas Pereira",
+            "jersey": 15
+        },
+        {
+            "name": "Fred",
+            "jersey": 17
+        },
+        {
+            "name": "Bruno Fernandes",
+            "jersey": 18
+        },
+        {
+            "name": "Amad Diallo",
+            "jersey": 19
+        },
+        {
+            "name": "Daniel James",
+            "jersey": 21
+        },
+        {
+            "name": "Facundo Pellistri",
+            "jersey": 28
+        },
+        {
+            "name": "Nemanja Matic",
+            "jersey": 31
+        },
+        {
+            "name": "Donny van de Beek",
+            "jersey": 34
+        },
+        {
+            "name": "James Garner",
+            "jersey": 37
+        },
+        {
+            "name": "Scott Mctominay",
+            "jersey": 39
+        },
+        {
+            "name": "Hannibal",
+            "jersey": 46
+        }
+    ],
+    "forwards": [
+        {
+            "name": "Edinson Cavani",
+            "jersey": 7
+        },
+        {
+            "name": "Anthony Martial",
+            "jersey": 9
+        },
+        {
+            "name": "Marcus Rashford",
+            "jersey": 10
+        },
+        {
+            "name": "Mason Greenwood",
+            "jersey": 11
+        },
+        {
+            "name": "Jadon Sancho",
+            "jersey": 25
+        },
+        {
+            "name": "Tahith Chong",
+            "jersey": 44
+        },
+        {
+            "name": "Anthony Elanga",
+            "jersey": 56
+        },
+        {
+            "name": "Shola Shoretire",
+            "jersey": 74
         }
     ]
 }
