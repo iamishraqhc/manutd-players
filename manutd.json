@@ -2,157 +2,268 @@
     "goalkeepers": [
         {
             "name": "David de Gea",
-            "jersey": 1
+            "jersey": 1,
+            "country": "Spain",
+            "joined": "29-06-2011",
+            "appearances": 442
         },
         {
             "name": "Lee Grant",
-            "jersey": 13
-        },
-        {
-            "name": "Dean Henderson",
-            "jersey": 26
+            "jersey": 13,
+            "country": "England",
+            "joined": "03-07-2018",
+            "appearances": 2
         },
         {
             "name": "Tom Heaton",
-            "jersey": 22
+            "jersey": 22,
+            "country": "England",
+            "joined": "02-07-2021",
+            "appearances": 0
+        },
+        {
+            "name": "Dean Henderson",
+            "jersey": 26,
+            "country": "England",
+            "joined": "01-08-2013",
+            "appearances": 26
         }
     ],
     "defenders": [
         {
             "name": "Victor Lindelof",
-            "jersey": 2
+            "jersey": 2,
+            "country": "Sweden",
+            "joined": "01-07-2017",
+            "appearances": 162
         },
         {
             "name": "Eric Bailly",
-            "jersey": 3
+            "jersey": 3,
+            "country": "Ivory Coast",
+            "joined": "08-06-2016",
+            "appearances": 106
         },
         {
             "name": "Phil Jones",
-            "jersey": 4
+            "jersey": 4,
+            "country": "England",
+            "joined": "01-07-2011",
+            "appearances": 224
         },
         {
             "name": "Harry Maguire",
-            "jersey": 5
+            "jersey": 5,
+            "country": "England",
+            "joined": "05-08-2019",
+            "appearances": 108
         },
         {
             "name": "Diogo Dalot",
-            "jersey": 20
+            "jersey": 20,
+            "country": "Portugal",
+            "joined": "06-06-2018",
+            "appearances": 35
         },
         {
             "name": "Luke Shaw",
-            "jersey": 23
+            "jersey": 23,
+            "country": "England",
+            "joined": "27-06-2014",
+            "appearances": 187
         },
         {
             "name": "Alex Telles",
-            "jersey": 27
+            "jersey": 27,
+            "country": "Brazil",
+            "joined": "05-10-2020",
+            "appearances": 24
         },
         {
             "name": "Aaron Wan-Bissaka",
-            "jersey": 29
+            "jersey": 29,
+            "country": "England",
+            "joined": "29-06-2019",
+            "appearances": 101
         },
         {
             "name": "Brandon Williams",
-            "jersey": 33
+            "jersey": 33,
+            "country": "England",
+            "joined": "01-07-2017",
+            "appearances": 50
         },
         {
             "name": "Axel Tuanzebe",
-            "jersey": 38
+            "jersey": 38,
+            "country": "England",
+            "joined": "01-07-2013",
+            "appearances": 37
         },
         {
             "name": "Teden Mengi",
-            "jersey": 43
+            "jersey": 43,
+            "country": "England",
+            "joined": "01-07-2018",
+            "appearances": 1
         }
     ],
     "midfielders": [
         {
             "name": "Paul Pogba",
-            "jersey": 6
+            "jersey": 6,
+            "country": "France",
+            "joined": "08-08-2016",
+            "appearances": 207
         },
         {
             "name": "Juan Mata",
-            "jersey": 8
+            "jersey": 8,
+            "country": "Spain",
+            "joined": "25-01-2014",
+            "appearances": 273
         },
         {
             "name": "Jesse Lingard",
-            "jersey": 14
+            "jersey": 14,
+            "country": "England",
+            "joined": "01-07-2009",
+            "appearances": 210
         },
         {
             "name": "Andreas Pereira",
-            "jersey": 15
+            "jersey": 15,
+            "country": "Brazil",
+            "joined": "01-07-2012",
+            "appearances": 75
         },
         {
             "name": "Fred",
-            "jersey": 17
+            "jersey": 17,
+            "country": "Brazil",
+            "joined": "21-06-2018",
+            "appearances": 122
         },
         {
             "name": "Bruno Fernandes",
-            "jersey": 18
+            "jersey": 18,
+            "country": "Portugal",
+            "joined": "30-01-2020",
+            "appearances": 81
         },
         {
             "name": "Amad Diallo",
-            "jersey": 19
+            "jersey": 19,
+            "country": "Ivory Coast",
+            "joined": "07-01-2021",
+            "appearances": 8
         },
         {
             "name": "Daniel James",
-            "jersey": 21
+            "jersey": 21,
+            "country": "Wales",
+            "joined": "12-06-2019",
+            "appearances": 73
         },
         {
             "name": "Facundo Pellistri",
-            "jersey": 28
+            "jersey": 28,
+            "country": "Uruguay",
+            "joined": "05-10-2020",
+            "appearances": 0
         },
         {
             "name": "Nemanja Matic",
-            "jersey": 31
+            "jersey": 31,
+            "country": "Serbia",
+            "joined": "31-07-2017",
+            "appearances": 158
         },
         {
             "name": "Donny van de Beek",
-            "jersey": 34
+            "jersey": 34,
+            "country": "Netherlands",
+            "joined": "02-09-2020",
+            "appearances": 36
         },
         {
             "name": "James Garner",
-            "jersey": 37
+            "jersey": 37,
+            "country": "England",
+            "joined": "01-07-2017",
+            "appearances": 7
         },
         {
             "name": "Scott Mctominay",
-            "jersey": 39
+            "jersey": 39,
+            "country": "Scotland",
+            "joined": "01-07-2012",
+            "appearances": 134
         },
         {
             "name": "Hannibal",
-            "jersey": 46
+            "jersey": 46,
+            "country": "Tunisia",
+            "joined": "14-09-2019",
+            "appearances": 1
         }
     ],
     "forwards": [
         {
             "name": "Edinson Cavani",
-            "jersey": 7
+            "jersey": 7,
+            "country": "Uruguaya",
+            "joined": "05-10-2020",
+            "appearances": 39
         },
         {
             "name": "Anthony Martial",
-            "jersey": 9
+            "jersey": 9,
+            "country": "France",
+            "joined": "01-09-2015",
+            "appearances": 259
         },
         {
             "name": "Marcus Rashford",
-            "jersey": 10
+            "jersey": 10,
+            "country": "England",
+            "joined": "01-07-2014",
+            "appearances": 271
         },
         {
             "name": "Mason Greenwood",
-            "jersey": 11
+            "jersey": 11,
+            "country": "England",
+            "joined": "01-07-2018",
+            "appearances": 106
         },
         {
             "name": "Jadon Sancho",
-            "jersey": 25
-        },
-        {
-            "name": "Tahith Chong",
-            "jersey": 44
+            "jersey": 25,
+            "country": "England",
+            "joined": "23-07-2021",
+            "appearances": 1
         },
         {
             "name": "Anthony Elanga",
-            "jersey": 56
+            "jersey": 36,
+            "country": "Sweden",
+            "joined": "01-07-2018",
+            "appearances": 2
+        },
+        {
+            "name": "Tahith Chong",
+            "jersey": 44,
+            "country": "Netherlands",
+            "joined": "27-07-2016",
+            "appearances": 16
         },
         {
             "name": "Shola Shoretire",
-            "jersey": 74
+            "jersey": 74,
+            "country": "England",
+            "joined": "01-01-2020",
+            "appearances": 3
         }
     ]
 }

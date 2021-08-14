@@ -11,6 +11,22 @@ app.get('/players', (req, res) => {
     res.send(importData)
 })
 
+app.get('/goalkeepers', (req, res) => {
+    res.send(importData.goalkeepers)
+})
+
+app.get('/defenders', (req, res) => {
+    res.send(importData.defenders)
+})
+
+app.get('/midfielders', (req, res) => {
+    res.send(importData.midfielders)
+})
+
+app.get('/forwards', (req, res) => {
+    res.send(importData.forwards)
+})
+
 app.listen(port, () => {
     console.log(`App is listening to port ${port}`)
 })
