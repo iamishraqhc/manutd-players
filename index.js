@@ -2,6 +2,11 @@ const express = require('express')
 const app = express()
 const importData = require('./manutd.json')
 const port = process.env.PORT || 3000
+const cors = require('cors')
+
+app.use(cors({
+    origin: "*"
+}))
 
 app.get('/', (req, res) => {
     res.send("Manchester United Players database")
