@@ -2,7 +2,7 @@
     "players": [
         {
             "position": "Goalkeeper",
-            "goalkeepers": [
+            "members": [
                 {
                     "name": "David de Gea",
                     "jersey": 1,
@@ -39,7 +39,7 @@
         },
         {
             "position":"Defender",
-            "defenders": [
+            "members": [
                 {
                     "name": "Victor Lindelof",
                     "jersey": 2,
@@ -132,7 +132,7 @@
         },
         {
             "position":"Midfielder",
-            "midfielders": [
+            "members": [
                 {
                     "name": "Paul Pogba",
                     "jersey": 6,
@@ -249,7 +249,7 @@
         },
         {
             "position":"Forward",
-            "forwards": [
+            "members": [
                 {
                     "name": "Edinson Cavani",
                     "jersey": 7,
