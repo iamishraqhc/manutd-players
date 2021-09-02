@@ -259,11 +259,11 @@
             "position":"Forward",
             "members": [
                 {
-                    "name": "Edinson Cavani",
-                    "image": "assets.manutd.com/AssetPicker/images/0/0/15/55/997213/Edinson_Cavani_Landingpage1626421572829.jpg",
+                    "name": "Cristiano Ronaldo",
+                    "image": "assets.manutd.com/AssetPicker/images/0/0/15/140/1019060/Player_Profile_Thumbnail_CR1630578885295.webp",
                     "jersey": 7,
-                    "country": "Uruguaya",
-                    "joined": "05-10-2020",
+                    "country": "Portugal",
+                    "joined": "31-08-2021",
                     "position": "Forward"
                 },
                 {
@@ -288,6 +288,14 @@
                     "jersey": 11,
                     "country": "England",
                     "joined": "01-07-2018",
+                    "position": "Forward"
+                },
+                {
+                    "name": "Edinson Cavani",
+                    "image": "assets.manutd.com/AssetPicker/images/0/0/15/55/997213/Edinson_Cavani_Landingpage1626421572829.jpg",
+                    "jersey": 21,
+                    "country": "Uruguaya",
+                    "joined": "05-10-2020",
                     "position": "Forward"
                 },
                 {
